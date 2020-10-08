@@ -41,14 +41,27 @@
       </nav>
     <!--End NavBar-->
 
-
+    <!--Grid containing a bootstrap card-->
+<main class= "container">
+  <div class="row">
     
-    <!--Begin Form-->
+    <div class="col-md-7">
+    <div class="card">
+      <div class="card-body">
 
+        <!--begin header of card-->
+        <header>
+          <h1>Contact</h1>
+          <hr>
+        </header>
+        <!--end header-->
+
+        <!--Begin Form-->
     <form>
       
         <!--Enter Name-->
       <div class="row">
+        
         <div class="col">
           <label>Name</label>
           <input type="text" class="form-control" placeholder="Name">
@@ -56,20 +69,45 @@
         
       </div>
       <!--Enter Email-->
+
       <div class="form-group">
+
         <label for="exampleInputEmail1">Email</label>
         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+
       </div>
+
       <!--Enter message-->
       <div class="form-group">
+
         <label for="exampleFormControlTextarea1">Message</label>
         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
+
       </div>
       <!--submit button-->
       <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 
+            </div>
+
+          </div>
+
+        </div>
+        <div class="col-md-5"></div>
+      </div>
+
+    </main>
+
+
+    <footer class="footer">
+      <div id=footer-content>
+        <h3>Made with ❤️️ by Bo Stevenson</h3>
+        <p>
+            &copy; 2020 Bo Stevenson
+        </p>
+      </div>  
+    </footer>
 
 </body>
 
