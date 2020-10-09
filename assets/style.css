@@ -31,3 +31,8 @@ body
 #footer-content {
     width: 100%;
 }
+
+.img-thumbnail{
+
+    margin-bottom: 40px;
+}
