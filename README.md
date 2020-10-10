@@ -25,9 +25,9 @@ The project can be viewed at https://bo-stevenson.github.io/bo-stevenson-portfol
 
 ![Screenshot](assets/images/screenshot.png)
 
-![Screenshot](assests/images/screenshot-1.png)
+![Screenshot](assets/images/screenshot-1.png)
 
-![Screenshot](assests/images/screenshot-2.png)
+![Screenshot](assets/images/screenshot-2.png)
 
 ## Credits
 Bo Stevenson https://github.com/bo-stevenson
@@ -53,7 +53,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.   
 
 
 
