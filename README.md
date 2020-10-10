@@ -24,8 +24,10 @@ This repostitory is a Project Portfolio focusing mainly on **responsiveness** us
 The project can be viewed at https://bo-stevenson.github.io/bo-stevenson-portfolio/
 
 ![Screenshot](assets/images/screenshot.png)
-![Screenshot](assests/images/screenshot1.png)
-![Screenshot](assests/images/screenshot2.png)
+
+![Screenshot](assests/images/screenshot-1.png)
+
+![Screenshot](assests/images/screenshot-2.png)
 
 ## Credits
 Bo Stevenson https://github.com/bo-stevenson
@@ -33,7 +35,7 @@ Bo Stevenson https://github.com/bo-stevenson
 ## License 
 MIT License
 
-Copyright (c) [2020] [Horiseon]
+Copyright (c) [2020] [BoStevenson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
