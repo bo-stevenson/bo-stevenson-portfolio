@@ -1,6 +1,16 @@
-.container{
-background-color: white;
+nav{
+    background: rgba(41, 43, 44, 0.8);
+    border-bottom: 1px solid #bbb;
 }
+hr{
+    background-color: #808080;
+}
+.container{
+background: rgba(41, 43, 44, 0.8);
+color: #808080;
+}
+
+
 body
 {
      /* set background image */
@@ -21,9 +31,16 @@ a {
 a:hover {
     color:#343a40
 }
+.icon {
+    max-width: 20px;
+    max-height: 20px;
+
+}
+p{
+    color: #808080;
+}
 /*footer margining*/
 footer {
-    background-color: #343a40;
     /*clear: both;*/
     width: 100%;
     padding-top: 5px;
@@ -37,7 +54,7 @@ footer {
     text-align: center;
     max-height: 40px;
     margin-top: 300px;
-
+    background: rgba(41, 43, 44, 0.8);
 }
 
 #footer-content {
