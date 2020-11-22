@@ -1,5 +1,6 @@
 .container{
 background-color: white;
+
 }
 body
 {
@@ -41,3 +42,13 @@ body
 }
 
 .tab { text-indent:40px }
+
+
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+        
+        
+    }
+}
