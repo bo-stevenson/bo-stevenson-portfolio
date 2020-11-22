@@ -1,4 +1,6 @@
-
+.container{
+background-color: white;
+}
 body
 {
      /* set background image */
@@ -38,7 +40,4 @@ body
     margin-bottom: 25px;
 }
 
-.card {
-
-    margin-bottom: 75px;
-}
+.tab { text-indent:40px }
