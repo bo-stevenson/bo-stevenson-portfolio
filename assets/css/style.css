@@ -1,6 +1,5 @@
 .container{
 background-color: white;
-
 }
 body
 {
@@ -9,13 +8,23 @@ body
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
-
+    /*set text font*/
+    font-family: "Raleway", sans-serif;
 
 }
+
+a {
+    color: gray;
+
+}
+
+a:hover {
+    color:#343a40
+}
 /*footer margining*/
-.footer {
+footer {
     background-color: #343a40;
-    clear: both;
+    /*clear: both;*/
     width: 100%;
     padding-top: 5px;
     border-top: 1px solid #bbb;
@@ -24,11 +33,10 @@ body
     bottom: 0;
     right: 0;
     left: 0;
-    margin: 0 auto;
     padding-bottom: 0;
     text-align: center;
     max-height: 40px;
-    margin-top: 40px;
+    margin-top: 300px;
 
 }
 
@@ -45,10 +53,13 @@ body
 
 
 
-@media (min-width: 1200px) {
-    .container{
-        max-width: 970px;
-        
-        
+@media screen and (max-width: 575px) {
+    
+
+    /* keep about me pic small for mobile */
+    #about-me-image {
+        max-width: 300px;
     }
+    
 }
+
