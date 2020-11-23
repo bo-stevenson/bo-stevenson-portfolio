@@ -8,7 +8,7 @@ hr{
 .container{
 background: rgba(41, 43, 44, 0.8);
 color: #808080;
-font-size: 24px;
+
 }
 
 
@@ -21,7 +21,7 @@ body
         background-size: 100% 100%;
     /*set text font*/
     font-family: "Raleway", sans-serif;
-
+    font-size: 16px;
 }
 
 a {
