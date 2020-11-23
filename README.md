@@ -23,8 +23,6 @@ This repostitory is a Project Portfolio focusing mainly on **responsiveness** us
 ## Example
 The project can be viewed at https://bo-stevenson.github.io/bo-stevenson-portfolio/
 
-![Screenshot](assets/images/screenshot.png)
-
 ![Screenshot](assets/images/screenshot-1.png)
 
 ![Screenshot](assets/images/screenshot-2.png)
